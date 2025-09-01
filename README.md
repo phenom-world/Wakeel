@@ -1,10 +1,11 @@
 
  # 👋 Hi, I’m Wakeel  
 
-### 🚀 Senior Frontend Engineer @ [EarlyNode](https://github.com/earlynode)
+### 🚀 Senior Software Engineer @ [EarlyNode](https://github.com/earlynode)
 
-I’m a passionate front-end engineer who enjoys building clean, scalable, and user-friendly applications.  
-My focus is on modern React ecosystems and creating experiences that feel smooth, intuitive, and reliable.  
+I’m a passionate software engineer who enjoys building clean, scalable, high-performant, and user-friendly applications.  
+My focus is on modern **React ecosystems** for the frontend and **Node.js / backend services** for powering robust APIs.  
+I love creating experiences that feel smooth, intuitive, and reliable — from the UI all the way to the server.  
 
 ---
 
@@ -18,17 +19,16 @@ My focus is on modern React ecosystems and creating experiences that feel smooth
 ---
 
 ## 🔧 Tech Stack
-- **Languages:** JavaScript (ES6+), TypeScript, HTML, CSS/SCSS, Python, Go  
-- **Frameworks & Libraries:** React.js, Next.js, Remix, React Native  
+- **Languages:** JavaScript (ES6+), TypeScript, HTML, CSS/SCSS, Python, Go
+- **Frameworks & Libraries:**
+   -  **Frontend**: React.js, Next.js, Remix, React Native
+   -  **Backend**: Node.js, Nest.js, Python, Django, REST, GraphQL
 - **Styling:** Tailwind CSS, Material UI, Styled Components  
 - **Testing:** Jest, React Testing Library, Cypress  
 - **Cloud & DevOps:** AWS Lambda, Docker, Firebase, Supabase  
 - **Tools:** Git, Webpack, CI/CD, Storybook  
 
 ---
-
-
-> 💡 *Currently contributing at ReactSquad, helping clients build reliable, scalable, and beautiful web applications.*  
 
 
 ## Connect with me:
@@ -45,3 +45,11 @@ My focus is on modern React ecosystems and creating experiences that feel smooth
 
 ## Github Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=phenom-world&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+
+
+> 💡 *Currently contributing at ReactSquad, helping clients build reliable, scalable, and beautiful web applications.*  
+
+
+
+
