@@ -1,7 +1,7 @@
 
  # 👋 Hi, I’m Wakeel  
 
-### 🚀 Senior Software Engineer @ [EarlyNode](https://github.com/earlynode)
+### 🚀 Senior Software Engineer @ [EarlyNode](https://earlynode.com)
 
 I’m a passionate software engineer who enjoys building clean, scalable, high-performant, and user-friendly applications.  
 My focus is on modern **React ecosystems** for the frontend and **Node.js / backend services** for powering robust APIs.  
